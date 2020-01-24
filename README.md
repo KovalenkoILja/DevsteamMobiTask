@@ -11,5 +11,5 @@
 Предпочтительнее инициировать приложение через React Native CLI с помощью команды - react-native init TestApp, нежели чем через команду - create-react-native-app.
 
 ## Screenshots
-<img src="https://github.com/KovalenkoILja/DevsteamMobiTask/blob/master/screenshots/Screenshot_1579854916.png" width="100" height="100">
-<img src="https://github.com/KovalenkoILja/DevsteamMobiTask/blob/master/screenshots/Screenshot_1579854930.png" width="100" height="100">
+![GalleryScreen](https://github.com/KovalenkoILja/DevsteamMobiTask/blob/master/screenshots/Screenshot_1579854916.png?raw=false)
+![ImageScreen](https://github.com/KovalenkoILja/DevsteamMobiTask/blob/master/screenshots/Screenshot_1579854930.png?raw=false) 
